@@ -1,2 +1,2 @@
 # SpringBoot-Rest-VueJS
-An educational project using Spring Boot and VueJs
+Educational project using Spring Boot and Vue.js
